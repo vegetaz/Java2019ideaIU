@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DTHCN/DienTichHinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DTHCN/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HinhTron/HinhTron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HinhTron/TTHinhTron.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,20 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DienTichHinhChuNhat">
-    <configuration name="BTCoBan10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BTCoBan.BTCoBan10" />
-      <module name="Java2019ideaIU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BTCoBan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TTHinhTron">
     <configuration name="BangCuuChuong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.BangCuuChuong" />
       <module name="Java2019ideaIU" />
@@ -139,13 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TTHinhTron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HinhTron.TTHinhTron" />
+      <module name="Java2019ideaIU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HinhTron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TTHinhTron" />
         <item itemvalue="Application.DienTichHinhChuNhat" />
         <item itemvalue="Application.BangCuuChuong" />
         <item itemvalue="Application.MaTran" />
         <item itemvalue="Application.CacKieuDuLieu" />
-        <item itemvalue="Application.BTCoBan10" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <workItem from="1565698847580" duration="180000" />
       <workItem from="1565707482995" duration="135000" />
       <workItem from="1565710545627" duration="76000" />
-      <workItem from="1565710641398" duration="4352000" />
+      <workItem from="1565710641398" duration="5308000" />
     </task>
     <task id="LOCAL-00001" summary="Cập nhật tệp tin Markdown và dăm ba cái linh tinh">
       <created>1565712839560</created>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565714554367</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Hình chữ nhật">
+      <created>1565715087257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565715087257</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +263,7 @@
     <MESSAGE value="Các kiểu dữ liệu cơ bản trong Java" />
     <MESSAGE value="Ma trận số nguyên cấp n x m" />
     <MESSAGE value="Bảng cửu chương" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bảng cửu chương" />
+    <MESSAGE value="Hình chữ nhật" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hình chữ nhật" />
   </component>
 </project>
