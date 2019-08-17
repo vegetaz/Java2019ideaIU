@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld/ValidateDemo.java" afterDir="false" />
+    <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="Validate Demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld/SoNgayCuaThangTheoNam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld/SoNgayCuaThangTheoNam.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +184,7 @@
       <workItem from="1565796492376" duration="11000" />
       <workItem from="1565887599867" duration="1579000" />
       <workItem from="1565890781524" duration="27000" />
-      <workItem from="1565975460691" duration="5723000" />
+      <workItem from="1565975460691" duration="6867000" />
     </task>
     <task id="LOCAL-00001" summary="Cập nhật tệp tin Markdown và dăm ba cái linh tinh">
       <created>1565712839560</created>
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566035116768</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Validate Demo">
+      <created>1566035953605</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566035953605</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +357,7 @@
     <MESSAGE value="Số Chính Phương - Square Number" />
     <MESSAGE value="Số Đối Xứng - Symmetric Number" />
     <MESSAGE value="Unicode Character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unicode Character" />
+    <MESSAGE value="Validate Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validate Demo" />
   </component>
 </project>

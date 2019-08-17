@@ -25,7 +25,7 @@ public class SoNgayCuaThangTheoNam {
                 System.out.println("Tháng " + thang + " năm " + nam + " có 30 ngày!");
                 break;
             case 2:
-                if ((nam % 4) == 0){
+                if (nam % 400 == 0 || ((nam % 4) == 0) && nam % 100 != 0){
                     System.out.println("Tháng " + thang + " năm " + nam + " có 29 ngày!");
                 }
                 else
