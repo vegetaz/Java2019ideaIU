@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld/ChiaHetCho3Va7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld/SoChiaHetCho357.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChiaHetCho3Va7">
+  <component name="RunManager" selected="Application.SoChiaHetCho357">
     <configuration name="ChiaHetCho3Va7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.ChiaHetCho3Va7" />
       <module name="Java2019ideaIU" />
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoNguyenToDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.SoNguyenToDauTien" />
+    <configuration name="SoChiaHetCho357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.SoChiaHetCho357" />
       <module name="Java2019ideaIU" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnicodeCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.UnicodeCharacter" />
+    <configuration name="SoNguyenToDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.SoNguyenToDauTien" />
       <module name="Java2019ideaIU" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SoChiaHetCho357" />
         <item itemvalue="Application.ChiaHetCho3Va7" />
         <item itemvalue="Application.SNT10002000" />
         <item itemvalue="Application.SoNguyenToDauTien" />
         <item itemvalue="Application.ValidateDemo" />
-        <item itemvalue="Application.UnicodeCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,7 @@
       <workItem from="1565796492376" duration="11000" />
       <workItem from="1565887599867" duration="1579000" />
       <workItem from="1565890781524" duration="27000" />
-      <workItem from="1565975460691" duration="10730000" />
+      <workItem from="1565975460691" duration="11654000" />
     </task>
     <task id="LOCAL-00001" summary="Cập nhật tệp tin Markdown và dăm ba cái linh tinh">
       <created>1565712839560</created>
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566043154645</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="In ra màn hình các số nhỏ hơn 100 và chia hết cho 3 và 7">
+      <created>1566043567018</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566043567018</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +388,7 @@
     <MESSAGE value="Nhập vào tháng và năm, in ra số ngày của tháng đó" />
     <MESSAGE value="In ra màn hình 15 số nguyên tố đầu tiên" />
     <MESSAGE value="In ra màn hình các số nguyên tố từ 1000 tới 2000" />
-    <option name="LAST_COMMIT_MESSAGE" value="In ra màn hình các số nguyên tố từ 1000 tới 2000" />
+    <MESSAGE value="In ra màn hình các số nhỏ hơn 100 và chia hết cho 3 và 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="In ra màn hình các số nhỏ hơn 100 và chia hết cho 3 và 7" />
   </component>
 </project>
