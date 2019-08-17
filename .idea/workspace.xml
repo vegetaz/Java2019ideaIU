@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="Tìm phần tử lớn thứ hai trong mảng">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld/SoChinhPhuong.java" afterDir="false" />
+    <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld/SoDoiXung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SoChinhPhuong">
+  <component name="RunManager" selected="Application.SoDoiXung">
     <configuration name="HopSo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.HopSo" />
       <module name="Java2019ideaIU" />
@@ -112,6 +112,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SoDoiXung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.SoDoiXung" />
+      <module name="Java2019ideaIU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HelloWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SoNgayCuaThangTheoNam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.SoNgayCuaThangTheoNam" />
       <module name="Java2019ideaIU" />
@@ -125,26 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TTHinhTron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HinhTron.TTHinhTron" />
-      <module name="Java2019ideaIU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HinhTron.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SoDoiXung" />
         <item itemvalue="Application.SoChinhPhuong" />
         <item itemvalue="Application.SoNgayCuaThangTheoNam" />
         <item itemvalue="Application.PTLonThu2TrongMang" />
         <item itemvalue="Application.HopSo" />
-        <item itemvalue="Application.TTHinhTron" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,7 @@
       <workItem from="1565796492376" duration="11000" />
       <workItem from="1565887599867" duration="1579000" />
       <workItem from="1565890781524" duration="27000" />
-      <workItem from="1565975460691" duration="3872000" />
+      <workItem from="1565975460691" duration="4225000" />
     </task>
     <task id="LOCAL-00001" summary="Cập nhật tệp tin Markdown và dăm ba cái linh tinh">
       <created>1565712839560</created>
@@ -291,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566014431717</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Số Chính Phương - Square Number">
+      <created>1566034122954</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1566034122954</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +333,7 @@
     <MESSAGE value="Hợp Số" />
     <MESSAGE value="Tìm phần tử lớn thứ hai trong mảng" />
     <MESSAGE value="Nhập vào tháng và năm, in ra số ngày của tháng đó" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nhập vào tháng và năm, in ra số ngày của tháng đó" />
+    <MESSAGE value="Số Chính Phương - Square Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Số Chính Phương - Square Number" />
   </component>
 </project>
