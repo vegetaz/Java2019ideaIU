@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d444ae-f20f-47ab-8869-fd3af1b6b2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld/UocSoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassDemo/AbstractClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassDemo/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassDemo/NhanVienSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassDemo/NhanVienVanPhong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +75,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UocSoNguyenTo">
+  <component name="RunManager" selected="Application.AbstractClassDemo">
+    <configuration name="AbstractClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClassDemo.AbstractClassDemo" />
+      <module name="Java2019ideaIU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClassDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemSoChiaHetCho5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.DemSoChiaHetCho5" />
       <module name="Java2019ideaIU" />
@@ -88,19 +104,6 @@
     </configuration>
     <configuration name="KhaiTrienThanhTich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.KhaiTrienThanhTich" />
-      <module name="Java2019ideaIU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HelloWorld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoHoanHaoDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.SoHoanHaoDauTien" />
       <module name="Java2019ideaIU" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractClassDemo" />
         <item itemvalue="Application.UocSoNguyenTo" />
         <item itemvalue="Application.KhaiTrienThanhTich" />
         <item itemvalue="Application.UocSNTNhoNhat" />
         <item itemvalue="Application.DemSoChiaHetCho5" />
-        <item itemvalue="Application.SoHoanHaoDauTien" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +187,7 @@
       <workItem from="1565796492376" duration="11000" />
       <workItem from="1565887599867" duration="1579000" />
       <workItem from="1565890781524" duration="27000" />
-      <workItem from="1565975460691" duration="15629000" />
+      <workItem from="1565975460691" duration="16975000" />
     </task>
     <task id="LOCAL-00001" summary="Cập nhật tệp tin Markdown và dăm ba cái linh tinh">
       <created>1565712839560</created>
@@ -382,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566052868858</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="In ra màn hình tất cả các ước số nguyên tố của n">
+      <created>1566053869827</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1566053869827</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="List trong Java" />
     <MESSAGE value="String trong Java" />
     <MESSAGE value="Các kiểu dữ liệu cơ bản trong Java" />
     <MESSAGE value="Ma trận số nguyên cấp n x m" />
@@ -427,6 +436,7 @@
     <MESSAGE value="Trong các số tự nhiên nhỏ hơn 100, hãy đếm có bao nhiêu số&#10;- Chia hết cho 5&#10;- Chia 5 dư 1&#10;- Chia 5 dư 2&#10;- Chia 5 dư 3" />
     <MESSAGE value="Ước số nguyên tố nhỏ nhất của n" />
     <MESSAGE value="In ra khai triển thành tích các số nguyên tố từ nhỏ tới lớn" />
-    <option name="LAST_COMMIT_MESSAGE" value="In ra khai triển thành tích các số nguyên tố từ nhỏ tới lớn" />
+    <MESSAGE value="In ra màn hình tất cả các ước số nguyên tố của n" />
+    <option name="LAST_COMMIT_MESSAGE" value="In ra màn hình tất cả các ước số nguyên tố của n" />
   </component>
 </project>
